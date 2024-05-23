@@ -6,7 +6,7 @@
 
 ### GitHub Trainer
 
-Teach all things *Git*, give away all the stickers, ensure world peace.
+_Teach all things _Git_, give away all the stickers, ensure world peace._
 
 <!--
   Note here: Learners -- yup, you found the error!
@@ -15,13 +15,15 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
 
 ### Supportocat
 
+
 Provide *world class support* to customers on the GitHub platform
+
 
 ## Skills
 
 ### Education
 
-Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+_Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source._
 
 ### Leadership
 
