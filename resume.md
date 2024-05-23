@@ -1,6 +1,6 @@
 # GitHub Teacher
 
-_Charting the knowledge of the Internet, just like Galileo charted the stars._
+*Charting the knowledge of the Internet, just like Galileo charted the stars.*
 
 ## Experience
 
@@ -10,12 +10,14 @@ _Teach all things _Git_, give away all the stickers, ensure world peace._
 
 <!--
   Note here: Learners -- yup, you found the error!
-  Course maintainers -- leave the italics with * instead of _ for the error case.
+  Course maintainers -- leave the italics with * instead of * for the error case.
 -->
 
 ### Supportocat
 
-_Provide _world class support_ to customers on the GitHub platform_
+
+Provide *world class support* to customers on the GitHub platform
+
 
 ## Skills
 
@@ -25,4 +27,4 @@ _Developed and maintained various conference talks, online training, and in-pers
 
 ### Leadership
 
-_Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites._
+Managed multiple *asynchronous teams* in the development, maintenance, and release of various web applications and websites.
